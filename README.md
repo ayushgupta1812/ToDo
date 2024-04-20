@@ -8,4 +8,4 @@ After adding to the list, you can uncheck th items which are done one bt one by 
 <br />
 You can also Delete the item which are done by clicking <img src="/src/assets/delete.png" width="20" height="20"> button.
 <br />
-You can also uncheck all all the items at once by clicking this <img src="/src/assets/mark.png" width="20" height="20"> button.
+You can also uncheck all all the items at once by clicking this <img src="/src/assets/mark.png" width="50" height="20"> button.
